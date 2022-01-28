@@ -1,0 +1,17 @@
+GCP
+✔ Criar projeto no console do gCloud @done (1/24/2022, 12:20:05 PM)
+✔ Criar conta de serviço @done (1/24/2022, 12:20:06 PM)
+✔ Criar credenciais @done (1/24/2022, 12:20:06 PM)
+✔ Liberar API de Docs @done (1/24/2022, 12:20:07 PM)
+✔ Liberar API de Drive @done (1/24/2022, 12:20:07 PM)
+✔ Criar doc @done (1/24/2022, 6:59:46 PM)
+✔ Atualizar doc @done (1/24/2022, 9:26:41 PM)
+✔ Liberar permissão do doc @done (1/24/2022, 6:59:57 PM)
+✔ Criar uma credencial de desktop @done (27/01/2022 18:51:39)
+Node
+✔ Consumir a planilha de pontos @done (1/24/2022, 10:03:34 PM)
+☐ Criar crud total de arquivos para remover os criados (later)
+
+Python
+✔ Criar documento nos padrões @done (28/01/2022 12:28:49)
+☐ Criar documento no gcloud nos padrões
