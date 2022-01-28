@@ -76,7 +76,8 @@ function callScript(rows) {
 }
 
 function importFile() {
-  const filePath = path.resolve("pontos.csv");
+  const fileName = "input.csv";
+  const filePath = path.resolve(`./inputs/${fileName}`);
 
   const stream = fs.createReadStream(filePath);
 

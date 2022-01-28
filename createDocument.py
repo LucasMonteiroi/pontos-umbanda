@@ -33,7 +33,7 @@ def main():
       pularLinha(p, 2)
       continue
 
-  document.save('pontos.docx')
+  document.save('outputs/pontos.docx')
 
   print('Finalizado')
 
