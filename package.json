@@ -3,6 +3,8 @@
     "@google-cloud/local-auth": "^1.0.1",
     "@googleapis/docs": "^0.2.0",
     "csv-parse": "^5.0.4",
+    "dotenv": "^14.3.2",
+    "firebase": "^9.6.5",
     "googleapis": "^92.0.0",
     "python-shell": "^3.0.1"
   }
